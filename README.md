@@ -58,4 +58,4 @@ Or open index.html directly in a browser (some browsers may restrict local resou
 Small changes and fixes are welcome. Open issues or submit pull requests for bug fixes, accessibility improvements, or additional features (settings for difficulty, sound, local assets).
 
 ## License
-This repository is a demo project. Use and modify freely; add a license file if you want a specific license.
+This repository is a demo project. Use and modify freely
